@@ -23,7 +23,6 @@
     "fs": "0.0.1-security",
     "prism-media": "^1.2.2",
     "ytdl-core": "^4.0.3",
-    "ytpl": "^1.0.1",
-    "ytsr": "^0.1.21"
+    "ytpl": "^1.0.1"
   }
 }
