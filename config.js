@@ -3,7 +3,7 @@ require("dotenv/config");
 module.exports = {
   token: process.env.TOKEN,
   embedColor: "#b50002",
-  prefix: "!",
+  prefix: ">>",
 };
 
 module.exports.streamConfig = {

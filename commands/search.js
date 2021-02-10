@@ -1,5 +1,5 @@
 const ytsr = require('ytsr');
-const he = require('he');
+const discord = require('discord.js')
 
 module.exports = {
     name: 'search',
